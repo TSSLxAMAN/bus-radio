@@ -8,4 +8,5 @@
 export const SONGS = [
   { title: "Sajan Sajna", artist: "Aman", src: "/songs/John Cena Theme Song.mp3", cover: "/covers/cover1.png" },
   { title: "Song Two", artist: "Artist Name", src: "/songs/Randy Orton Theme Song.mp3" },
+  { title: "Roamn", artist: "Amanana", src: "/songs/Roman Reigns New Theme Song.mp3" },
 ];
